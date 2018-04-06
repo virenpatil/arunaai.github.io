@@ -15,7 +15,7 @@
     <header>
         <div class="container">
             <div class="singnature">
-                <img src="images/signature.png" alt="sign">
+                <img src="signature.png" alt="sign">
             </div>
             <div class="share-sec">
                 <ul>
